@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32654'
     url: http://www.gutenberg.org/2009/agents/32654
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27367#The-Art-of-Stage-DancingThe-Story-of-a-Beautiful-and-Profitable-Profession
 gutenberg_issued: '2008-11-30'
 gutenberg_type: Text
 identifiers:

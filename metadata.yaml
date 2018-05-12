@@ -1,0 +1,27 @@
+_repo: The-Art-of-Stage-DancingThe-Story-of-a-Beautiful-and-Profitable-Profession_27367
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27367-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wayburn, Ned
+    gutenberg_agent_id: '32654'
+    url: http://www.gutenberg.org/2009/agents/32654
+description: ''
+gutenberg_issued: '2008-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27367'
+  lccn: '25024125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Dance'
+title: 'The Art of Stage Dancing
+
+  The Story of a Beautiful and Profitable Profession'
+url: http://www.gutenberg.org/ebooks/27367
